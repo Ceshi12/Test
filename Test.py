@@ -1,1 +1,1 @@
-print("you are a dog");
+print("我是你的爱人");
