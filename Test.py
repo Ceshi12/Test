@@ -1,1 +1,1 @@
-print("我爱的人是我的爱人");
+print("you will be my wife if you can be good for me");
